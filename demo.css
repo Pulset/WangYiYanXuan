@@ -1,0 +1,193 @@
+*{
+  font-family: "Microsoft Yahei","微软雅黑",verdana;
+
+}
+
+.nav1{
+  background-color: black;
+ position: relative;
+ width: 100%;
+ height: 36px;
+}
+.slogan{
+  margin-left:10%;
+  float: left;
+  margin-top: 10px;
+  color: #A9A9A9;
+}
+.menu {
+  float: right;
+  margin-right: 10%;
+  margin-top: 10px;
+
+}
+.menu  li {
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.menu  li  a{
+  color: #A9A9A9;
+}
+.drop-list-item{
+  position: absolute;
+  top:36px;
+ right:9%;
+  display: none;
+}
+.nav2{
+ position: relative;
+ width: 100%;
+ height: 160px;
+ 
+}
+.logo{
+margin-left: 40%;
+margin-top: 30px;
+
+}
+.search{
+  position: absolute;
+  margin-top: -36px;
+  margin-left: 58%;
+}
+.navbar{
+  margin-left: 26%;
+  margin-right: 21%;
+  margin-top: 20px;
+  margin-bottom: 0px !important;
+}
+.list{
+  text-align: center;
+  color: black;
+  text-decoration:none; 
+}
+
+.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8{
+display: none;
+background-color: white ;
+position: absolute;
+width: 100%;
+z-index: 1;
+height: 123px;
+}
+.row p{
+  display: inline-block;
+
+}
+.ve{
+border:0;
+border-right:1px solid #C1BBBB;
+padding-left: 20px !important;
+}
+.content1{
+  padding-top: 20px;
+}
+.bo{
+border:0;
+border-bottom:1px solid #C1BBBB;
+}
+.content3{
+  padding-top: 20px;
+}
+.bt{
+  margin-bottom: 10px;
+}
+.hd{
+  float: left;
+}
+
+
+.shd{
+  float: left;
+  margin-left: 15px;
+  margin-top: 33px;
+}
+.more{
+  float: right;
+  margin-top: 33px;
+  margin-right: 18px;
+  color: black;
+}
+.row h5{
+  color: black;
+  text-decoration: none;
+}
+.content2{
+  background-color: #F5F5F5;
+}
+.breadcrumb span{
+color: black;
+}
+.row{
+  position: relative;
+}
+.us{
+  float: left;
+
+padding-top: 22px;
+}
+.about1{
+ float: left;
+position: relative;
+padding-top: 15px;
+}
+.about2{
+  float: left;
+position: relative;
+padding-top: 15px;
+
+}
+.about3{
+  float: left;
+
+  padding-top: 15px;
+}
+.about1-1{
+position: absolute;
+top: 138px;
+left: 43px;
+z-index: 1;
+display: none;
+
+
+
+}
+.about2-1{
+position: absolute;
+top: 138px;
+left: 99px;
+z-index: 1;
+display: none;
+
+
+
+}
+.footer2{
+ background-color:#414141;
+ padding-top: 30px;
+}
+
+.about{
+  text-align: center;
+  color: #8C9999;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.about a{
+  text-decoration: none;
+  color: #8C9999;
+}
+.return{
+  position: fixed;
+  width: 58px;
+  height: 45px;
+  bottom: 0px;
+  right: 60px;
+  opacity: 0.5;
+
+}
+.au{
+  width: 100%;
+  height:100%; 
+}
