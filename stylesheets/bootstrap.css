@@ -4720,6 +4720,8 @@ a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
   border-color: #428bca;
+
+
 }
 .thumbnail .caption {
   padding: 9px;
